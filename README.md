@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evanhiggins0
 - 👀 I’m interested in Motorsport, Chess, Music and Esports
-- 🌱 I’m currently learning more about C++
+- 🌱 I’m a Computer Systems student in University of Limerick.
 - 📫 You can find how to reach me on my website: https://evanhiggins.com/
 
 <!---
