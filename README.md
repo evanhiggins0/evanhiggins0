@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evanhiggins0
-- 🌱 I’m a Software Engineer Intern at WP Engine & a Computer Systems student in University of Limerick
+- 🌱 I’m a DevOps Engineer at Gilat Satellite Networks
 - 👀 I’m interested in Travel, Motorsport, Chess, Music and Esports
 - 📫 You can find how to reach me on my website: https://evanhiggins0.github.io/
 
